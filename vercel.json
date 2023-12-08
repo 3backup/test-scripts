@@ -4,7 +4,7 @@
         "source": "/",
         "has": [
           {
-            "type": "vercel",
+            "type": "host",
             "value": "test-scripts.vercel.app"
           }
         ],
